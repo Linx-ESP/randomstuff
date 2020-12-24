@@ -1,6 +1,6 @@
 # randomstuff
-### Discord - BandagedBD (BetterDiscord) + Glasscord + Powercord / Lightcord
-### Spotify - Spicetify
+- Discord - Lightcord
+- Spotify - Spicetify
 
 
 
@@ -9,5 +9,5 @@
 
 
 # Para Windows
-### Rainmeter + TaskbarX
-### PowerToys
+- Rainmeter + TaskbarX
+- PowerToys
