@@ -1,4 +1,4 @@
-# randomstuff
+# Personalizar otras Apps
 - Discord - [Lightcord](https://github.com/Lightcord/Lightcord)
 - Spotify - [Spicetify](https://github.com/khanhas/spicetify-cli)
 
