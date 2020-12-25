@@ -99,6 +99,7 @@
 - [Compactor](https://github.com/Freaky/Compactor)
   - Comprimir juegos sin pérdida
   - Basado en el abandonado [CompactGUI](https://github.com/ImminentFate/CompactGUI)
+  - Formatos comprimidos (.zip .rar) no tiene que ver con esta compresión
 - [MSI Afterburner](https://www.guru3d.com/files-details/msi-afterburner-beta-download.html)
   - Overclock de gráfica
   - Overlay personalizable para monitorización (del PC)
