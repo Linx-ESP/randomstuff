@@ -111,8 +111,8 @@
 - Esto se supone es potente, para algo básico puede que lo preinstalado sea suficiente
 - Editor de vídeo de Win10 limita a 30fps
 - Imágenes
-  -[GIMP](https://www.gimp.org) [Gratis]
-  -[Affinity Suite](https://affinity.serif.com/es/photo/) [Pago]
+  - [GIMP](https://www.gimp.org) [Gratis]
+  - [Affinity Suite](https://affinity.serif.com/es/photo/) [Pago]
 - Vídeo
   - [Davinci Resolve](https://www.blackmagicdesign.com/es/products/davinciresolve/) [Free]
     - Requiere bastante de gráfica
