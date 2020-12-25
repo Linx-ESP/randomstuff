@@ -98,6 +98,7 @@
   - Mejor que Windows por defecto
 - [Compactor](https://github.com/Freaky/Compactor)
   - Comprimir juegos sin pérdida
+  - Ahorrar espacio
   - Basado en el abandonado [CompactGUI](https://github.com/ImminentFate/CompactGUI)
   - Formatos comprimidos (.zip .rar) no tiene que ver con esta compresión
 - [MSI Afterburner](https://www.guru3d.com/files-details/msi-afterburner-beta-download.html)
