@@ -68,7 +68,8 @@
 
 # OC Procesador (esto de aquí con pinzas porque AMD se explica como el orto)
 - Aplicaciones desde windows para poner valores a la BIOS son bastante malas, no usar
-- Intel, AMD viejos y AMD si no es por PBO son manuales
+- Intel, AMD viejos y AMD 1000 y 2000 non-X son manuales
+- Manual no más de 1.36 v
 - AMD Ryzen (sorpresa, es más confuso que manual)
   - Lo que diga [Buildzoid](https://www.youtube.com/watch?v=G7Z7bJJcCNY)
   - Si Ryzen X (2700X, 3600x etc) Usar XFR2 + PBO + AutoOC
