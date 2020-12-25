@@ -70,5 +70,5 @@
 - Aplicaciones desde windows para poner valores a la BIOS son bastante malas, no usar
 - Intel, AMD viejos y AMD si no es por PBO son manuales
 - AMD Ryzen
-  - Usar PBO + AutoOC
+  - Si Ryzen X (2700X, 3600x etc) Usar PBO + AutoOC
   - 1usmus' [ClockTunner for Ryzen](https://www.guru3d.com/articles_pages/clocktuner_for_ryzen_ctr_guide_download,3.html) [ZEN 2 (Ryzen 3000) y BIOS Actualizada]
