@@ -1,45 +1,46 @@
 # Launchers y Tiendas de Juegos
-- Steam - Principal
-  - Steam Play
-  - Steam Controller (Software)
-  - Comunidad y Mercado (In-game items)
-  - Workshop
+- [Steam](https://store.steampowered.com/about/) - Principal
+  - [Steam Play](https://store.steampowered.com/remoteplay)
+  - [Steam Input](https://partner.steamgames.com/doc/features/steam_controller?l=spanish)
+  - [Comunidad](https://steamcommunity.com) y [Mercado](https://steamcommunity.com/market/) (In-game items)
+  - [Workshop](https://steamcommunity.com/workshop/)
   - Perfil detallado
-- GOG.com / GOG Galaxy 2.0
+- [GOG.com](https://www.gog.com) / [GOG Galaxy 2.0](https://www.gog.com/galaxy)
   - Juegos sin DRM
-- Epic Games Launcher (EGS)
+  - Pretende ser un launcher central
+- [Epic Games](https://www.epicgames.com/store/es-ES/download) Launcher (EGS)
   - Juegos de Epic y terceros
-  - Juego(s) gratis cada semana
+  - [Juego(s) gratis](https://www.epicgames.com/store/es-ES/free-games) cada semana
   - Exclusivos de PlayStation
-- Origin
+- [Origin](https://www.origin.com/esp/es-es/store/download)
   - Juegos de EA y terceros
-- Ubisoft Connect (antes UPlay)
+- [Ubisoft Connect](https://ubisoftconnect.com/es-ES/) (antes UPlay)
   - Juegos de Ubisoft (también en EGS)
 
 # Suscripciones
 ### Para acceder a juegos
-- Xbox Game Pass (Ultimate)
+- [Xbox Game Pass](https://www.xbox.com/es-ES/xbox-game-pass/pc-games) (Ultimate)
   - Rotísima, solo Windows 10 a través de app o MS Store
-- EA Play (Pro) 
+- [EA Play](https://www.ea.com/es-es/ea-play) (Pro) 
   - Juegos de EA (en Steam) y más terceros (Origin)
-- Uplay+
+- [Ubisoft +](https://store.ubi.com/us/ubisoftplus/?lang=es_es) (antes UPlay +)
   - Juegos de Ubisoft
 ### Para obtener juegos
-- Humble Choice (antes Monthly)
+- [Humble Choice](https://es.humblebundle.com/subscription?partner=johnsmith) (antes Monthly)
   - Claves para activar en Steam
-  - Acceso a Humble Trove (juegos sin DRM)
+  - Acceso a [Humble Trove](https://www.humblebundle.com/subscription/trove) (juegos sin DRM)
   - Ver "Tiendas de Claves"
 
 # Tiendas de Claves
-- Humble Bundle
+- [Humble Bundle](www.humblebundle.com/?partner=johnsmith)
   - Claves cedidas por desarrolladores / editoras
   - Tienda + Bundles (lo principal)
   - Bundles: Packs de Juegos
   - Colaboran con asociaciones benéficas
   - Algún que otro juego gratis
-- Green Man Gaming
+- [Green Man Gaming](https://www.greenmangaming.com/es/)
   - Claves de distribuidoras
-- Instant Gaming
+- [Instant Gaming](https://www.instant-gaming.com)
   - Claves de distribuidoras
 - G2A
   - Claves de distribuidoras parcialmente
