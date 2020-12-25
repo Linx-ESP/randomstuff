@@ -15,14 +15,14 @@
   - Juegos de Ubisoft (también en EGS)
 
 # Suscripciones
-## Para acceder a juegos
+### Para acceder a juegos
 - Xbox Game Pass (Ultimate)
   - Rotísima, solo Windows 10 a través de app o MS Store
 - EA Play (Pro) 
   - Juegos de EA (en Steam) y más terceros (Origin)
 - Uplay+
   - Juegos de Ubisoft
-## Para obtener juegos
+### Para obtener juegos
 - Humble Choice (antes Monthly)
   - Claves para activar en Steam
   - Acceso a Humble Trove (juegos sin DRM)
