@@ -45,7 +45,7 @@
   - Mercado Gris (se sabe que hay claves con origen ilegal)
   - NO USAR
 
-# Webs a manejar
+# Webs a tener en cuenta
 - Reddit [EN]
   - [r/pcmasterrace](reddit.com/r/pcmasterrace)
   - r/[a lo que estés jugando]
@@ -60,4 +60,19 @@
   - [Epic Games](https://status.epicgames.com)
   - [Xbox](https://support.xbox.com/es-ES/xbox-live-status)
   - [Discord](https://discordstatus.com)
+- [Techspot](https://www.techspot.com) [EN-au]
+  - Noticias en general de tecnología
+  - Sensacionalismo, no gracias
+  - Hardware Unboxed crea contenido (Ver "Creadores de Contenido")
+
+# Webs para mods
+- Cada juegos tiene su comunidad ubicada en una web por lo normal
+- Minecraft
+  - [Curse Forge](https://www.curseforge.com)
+  - [Minecraft Forum](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods)
+- Bethesda (Fallout, TES, Skyrim)
+  - [Nexus Mods](https://www.nexusmods.com)
+- SimRacing (Assetto Corsa, DiRT, F1, Project Cars)
+  - [RaceDepartment](racedepartment.com)
+
 
