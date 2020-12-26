@@ -69,8 +69,8 @@
   + [The Witcher 3 HD Reworked Project](https://www.nexusmods.com/witcher3/mods/1021)
   + [Phoenix Lighting](https://www.nexusmods.com/witcher3/mods/3170)
 + Ajustes
-  ![](images/tw3)
   + Post Procesado
+  ![](images/tw3post.png)
     + Desenfoque de movimiento = No afecta al rendimiento
     + Desenfoque = Sí (Solo afecta a cinemáticas)
     + Suavizado de líneas = Sí
@@ -80,6 +80,7 @@
     + Aberración Cromática = No (No afecta al rendimento, efecto de cámara, no ojo)
     + Viñeteado = No afecta al rendimiento
   + Gráficos
+  ![](images/tw3gfx.png)
     + Nvidia Hairwoks = No
     + Número de personajes secundarios = No afecta al rendimiento
     + Calidad de las sombras = High / Medium
