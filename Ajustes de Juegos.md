@@ -21,7 +21,7 @@
 
 ### Forza Horizon 4
 Esto son ajustes para una buena relación de rendimiento-calidad, basado en [Hardware Unboxed](https://www.youtube.com/watch?v=Z8UODAGyOJs)
-[Rendimiento](images/fh4.png)
+![Rendimiento](images/fh4.png)
 - Night Shadows = On
 - Shadow Quality = Extreme / Ultra
 - Texture Quality = Ultra [Limitado por VRAM, 4GB @ 1080p suficiente]
