@@ -19,6 +19,27 @@
 - Si un ajuste no aparece, da igual o no se sabe la mejor opción
 - Si aparecen varias opciones, normalmente indican misma relación calidad-rendimiento, por orden de recomendado
 
+### Assetto Corsa
+<details>
+<summary> Mods básicos, por no decir necesarios. No incluye pistas o coches </summary>
+
++ Mods
+  + [Content Manager + Custom Shader Patch](https://assettocorsa.club/content-manager.html)
+  + [Sol](https://www.racedepartment.com/downloads/sol.24914/)
+  + Recomendado pero menos importantes, ponen AC al día
+    + [Fonsecker's Sound Mod](https://www.racedepartment.com/downloads/authors/fonsecker.213905/) (4 partes)
+    + [IMrlMike's Miscellaneous Sound Pack](https://www.racedepartment.com/downloads/custom-miscellaneous-sound-pack-by-imrimike.23336/)
+    + [Clean Menu UI](https://www.racedepartment.com/downloads/clean-menu-ui-graphic-elements.16484/)
+    + [Replay Icons Overhaul](https://www.racedepartment.com/downloads/replay-icons-overhaul.34940/)
+    + [Immersive Pit Marker](https://www.racedepartment.com/downloads/immersive-pit-marker-ipm.38069/)
+    + [Mejor Traducción](https://www.racedepartment.com/downloads/mejor-traducción-al-español.34022/)
+
+
+</details>
+
+### Cyberpunk 2077
+ - [Gamers Nexus Settings](https://www.youtube.com/watch?v=TEVXVf4Hu0U) [EN]
+
 ### Forza Horizon 4
 <details>
 <summary> Esto son ajustes para una buena relación de rendimiento-calidad, basado en <a href="https://www.youtube.com/watch?v=Z8UODAGyOJs">Hardware Unboxed</a> </summary>
@@ -42,6 +63,3 @@
 + Particle Effects = High (bajar si CPU mal)
 
 </details>
-
-### Cyberpunk 2077
- - [Gamers Nexus Settings](https://www.youtube.com/watch?v=TEVXVf4Hu0U) [EN]
