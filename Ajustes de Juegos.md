@@ -16,7 +16,7 @@
 # Ajustes específicos por juegos
 Varios grupos de ajustes por [Hardware Unboxed](https://www.youtube.com/playlist?list=PL7m5C6_P_lnXQhO8YRLfVVMSGo0UwDIne) 
 ### Forza Horizon 4
-Esto son ajustes para una buena relación de rendimiento-calidad, basado en Hardware Unboxed
+Esto son ajustes para una buena relación de rendimiento-calidad, basado en [Hardware Unboxed](https://www.youtube.com/watch?v=Z8UODAGyOJs)
 - Night Shadows = On
 - Shadow Quality = Extreme / Ultra
 - Texture Quality = Ultra [Limitado por VRAM, 4GB @ 1080p suficiente]
