@@ -43,22 +43,22 @@
 <summary> Esto son ajustes para una buena relación de rendimiento-calidad, basado en <a href="https://www.youtube.com/watch?v=Z8UODAGyOJs">Hardware Unboxed</a> </summary>
 
 ![Rendimiento](images/fh4.png)
-+ Night Shadows = On
-+ Shadow Quality = Extreme / Ultra
++ Night Shadows = Sí
++ Shadow Quality = Extremo / Ultra
 + Texture Quality = Ultra [Limitado por VRAM, 4GB @ 1080p suficiente]
 + Dynamic Geometry Quality = Medio
 + Antialiasing = x2 MSAA
 + FXAA Antialias = A gusto
 + SSAO = Ultra
-+ Refletion Quality = Ultra / High
++ Refletion Quality = Ultra / Alto
 + Windshield Reflection Quality = Ultra
-+ Mirror Quality = Extreme
-+ World Car LoD = Ultra / High [Difs notables en calidad y rendimiento]
++ Mirror Quality = Extremo
++ World Car LoD = Ultra / Alto [Difs notables en calidad y rendimiento]
 + Deformable Terrain Quality = Ultra
-+ SSR = High / Med
-+ Lens Effect = Off / Med (por gusto)
-+ Shader Quality = High
-+ Particle Effects = High (bajar si CPU mal)
++ SSR = Alto / Medio
++ Lens Effect = No / Medio (por gusto)
++ Shader Quality = Alto
++ Particle Effects = Alto (bajar si CPU mal)
 </details>
 
 ### The Witcher 3 (anterior al remaster prometido para Next-Gen)
@@ -72,11 +72,11 @@
   + Post Procesado
   ![](images/tw3post.png)
     + Desenfoque de movimiento = No afecta al rendimiento
-    + Desenfoque = Sí (Solo afecta a cinemáticas)
     + Suavizado de líneas = Sí
     + Bloom = Sí
     + Aumentar nitidez = No afecta al rendimiento
-    + Oclusión ambiental = HBAO + / SSAO (puede rendir mejor con AMD) / Off (Si nada de potencia)
+    + Oclusión ambiental = HBAO + / SSAO (Puede rendir mejor con AMD) / Off (Si nada de potencia)
+    + Profundidad de campo = Sí (Solo afecta cinemáticas)
     + Aberración Cromática = No (No afecta al rendimento, efecto de cámara, no ojo)
     + Viñeteado = No afecta al rendimiento
   + Gráficos
@@ -87,7 +87,7 @@
     + Calidad del terreno = Ultra [Depende de CPU]
     + Calidad del agua = Ultra
     + Densidad de la hierba =  Ultra
-    + Calidad de texturas = Halk Ultra HD (requiere TW3 HD Reworked Project, Ver "Mods") / Ultra
+    + Calidad de texturas = Halk Ultra HD (Requiere TW3 HD Reworked Project, Ver "Mods") / Ultra
     + Alcance de visibildad del follaje = Alto / Medio
     + Nivel de detalle = Ultra
 </details>
