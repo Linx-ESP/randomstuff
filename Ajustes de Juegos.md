@@ -23,10 +23,10 @@
 <details>
 <summary> Esto son ajustes para una buena relación de rendimiento-calidad, basado en <a href="https://www.youtube.com/watch?v=Z8UODAGyOJs">Hardware Unboxed</a> </summary>
 ![Rendimiento](images/fh4.png)
-<ul> Night Shadows = On </ul>
-<ul> Shadow Quality = Extreme / Ultra </ul>
-<ul> Texture Quality = Ultra [Limitado por VRAM, 4GB @ 1080p suficiente] </ul>
-<ul> Dynamic Geometry Quality = Medio </ul>
++ Night Shadows = On </ul>
++ Shadow Quality = Extreme / Ultra </ul>
++ Texture Quality = Ultra [Limitado por VRAM, 4GB @ 1080p suficiente] </ul>
++ Dynamic Geometry Quality = Medio </ul>
 <ul> Antialiasing = x2 MSAA </ul>
 <ul> FXAA Antialias = A gusto </ul>
 <ul> SSAO = Ultra </ul>
