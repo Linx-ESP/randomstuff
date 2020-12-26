@@ -22,7 +22,7 @@
 ### Assetto Corsa
 <details>
 <summary> Mods básicos, por no decir necesarios. No incluye pistas o coches </summary>
-
+  
 + Mods
   + [Content Manager + Custom Shader Patch](https://assettocorsa.club/content-manager.html)
   + [Sol](https://www.racedepartment.com/downloads/sol.24914/)
@@ -33,8 +33,6 @@
     + [Replay Icons Overhaul](https://www.racedepartment.com/downloads/replay-icons-overhaul.34940/)
     + [Immersive Pit Marker](https://www.racedepartment.com/downloads/immersive-pit-marker-ipm.38069/)
     + [Mejor Traducción](https://www.racedepartment.com/downloads/mejor-traducción-al-español.34022/)
-
-
 </details>
 
 ### Cyberpunk 2077
@@ -61,5 +59,34 @@
 + Lens Effect = Off / Med (por gusto)
 + Shader Quality = High
 + Particle Effects = High (bajar si CPU mal)
+</details>
 
+### The Witcher 3 (anterior al remaster prometido para Next-Gen)
+<details>
+<summary> Ajustes basados en <a href="https://www.gamersnexus.net/game-bench/1952-complete-witcher-3-graphics-optimization-guide-and-performance">Gamers Nexus</a>. Mods disponibles en <a href="https://www.nexusmods.com/witcher3">Nexus Mods</a>. Gamers Nexus y Nexus Mods no están relacionados </summary>
+
++ Mods
+  + [The Witcher 3 HD Reworked Project](https://www.nexusmods.com/witcher3/mods/1021)
+  + [Phoenix Lighting](https://www.nexusmods.com/witcher3/mods/3170)
++ Ajustes
+  ![](images/tw3)
+  + Post Procesado
+    + Desenfoque de movimiento = No afecta al rendimiento
+    + Desenfoque = Sí (Solo afecta a cinemáticas)
+    + Suavizado de líneas = Sí
+    + Bloom = Sí
+    + Aumentar nitidez = No afecta al rendimiento
+    + Oclusión ambiental = HBAO + / SSAO (puede rendir mejor con AMD) / Off (Si nada de potencia)
+    + Aberración Cromática = No (No afecta al rendimento, efecto de cámara, no ojo)
+    + Viñeteado = No afecta al rendimiento
+  + Gráficos
+    + Nvidia Hairwoks = No
+    + Número de personajes secundarios = No afecta al rendimiento
+    + Calidad de las sombras = High / Medium
+    + Calidad del terreno = Ultra [Depende de CPU]
+    + Calidad del agua = Ultra
+    + Densidad de la hierba =  Ultra
+    + Calidad de texturas = Halk Ultra HD (requiere TW3 HD Reworked Project, Ver "Mods") / Ultra
+    + Alcance de visibildad del follaje = Alto / Medio
+    + Nivel de detalle = Ultra
 </details>
