@@ -19,7 +19,9 @@
 - Si un ajuste no aparece, da igual o no se sabe la mejor opción
 - Si aparecen varias opciones, normalmente indican misma relación calidad-rendimiento, por orden de recomendado
 
-### Forza Horizon 4
+<details>
+<summary>### Forza Horizon 4</summary>
+<br>
 Esto son ajustes para una buena relación de rendimiento-calidad, basado en [Hardware Unboxed](https://www.youtube.com/watch?v=Z8UODAGyOJs)
 ![Rendimiento](images/fh4.png)
 - Night Shadows = On
@@ -38,6 +40,7 @@ Esto son ajustes para una buena relación de rendimiento-calidad, basado en [Har
 - Lens Effect = Off / Med (por gusto)
 - Shader Quality = High
 - Particle Effects = High (bajar si CPU mal)
+</details>
 
 ### Cyberpunk 2077
  - [Gamers Nexus Settings](https://www.youtube.com/watch?v=TEVXVf4Hu0U) [EN]
