@@ -20,26 +20,25 @@
 - Si aparecen varias opciones, normalmente indican misma relación calidad-rendimiento, por orden de recomendado
 
 <details>
-<summary>### Forza Horizon 4</summary>
-<br>
+<summary><h1>Forza Horizon 4</h1></summary>
 Esto son ajustes para una buena relación de rendimiento-calidad, basado en [Hardware Unboxed](https://www.youtube.com/watch?v=Z8UODAGyOJs)
 ![Rendimiento](images/fh4.png)
-- Night Shadows = On
-- Shadow Quality = Extreme / Ultra
-- Texture Quality = Ultra [Limitado por VRAM, 4GB @ 1080p suficiente]
-- Dynamic Geometry Quality = Medio
-- Antialiasing = x2 MSAA 
-- FXAA Antialias = A gusto
-- SSAO = Ultra
-- Refletion Quality = Ultra / High
-- Windshield Reflection Quality = Ultra
-- Mirror Quality = Extreme
-- World Car LoD = Ultra / High [Difs notables en calidad y rendimiento]
-- Deformable Terrain Quality = Ultra
-- SSR = High / Med
-- Lens Effect = Off / Med (por gusto)
-- Shader Quality = High
-- Particle Effects = High (bajar si CPU mal)
+<ul> Night Shadows = On </ul>
+<ul> Shadow Quality = Extreme / Ultra </ul>
+<ul> Texture Quality = Ultra [Limitado por VRAM, 4GB @ 1080p suficiente] </ul>
+<ul> Dynamic Geometry Quality = Medio </ul>
+<ul> Antialiasing = x2 MSAA </ul>
+<ul> FXAA Antialias = A gusto </ul>
+<ul> SSAO = Ultra </ul>
+<ul> Refletion Quality = Ultra / High </ul>
+<ul> Windshield Reflection Quality = Ultra </ul>
+<ul> Mirror Quality = Extreme </ul>
+<ul> World Car LoD = Ultra / High [Difs notables en calidad y rendimiento] </ul>
+<ul> Deformable Terrain Quality = Ultra </ul>
+<ul> SSR = High / Med </ul>
+<ul> Lens Effect = Off / Med (por gusto) </ul>
+<ul> Shader Quality = High </ul>
+<ul> Particle Effects = High (bajar si CPU mal) </ul>
 </details>
 
 ### Cyberpunk 2077
