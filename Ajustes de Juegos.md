@@ -18,11 +18,11 @@ Varios grupos de ajustes por [Hardware Unboxed](https://www.youtube.com/playlist
 ### Forza Horizon 4
 Esto son ajustes para una buena relación de rendimiento-calidad, basado en Hardware Unboxed
 - Night Shadows = On
-- Shadow Quality = Extreme - Ultra
+- Shadow Quality = Extreme / Ultra
 - Texture Quality = Ultra [Limitado por VRAM, 4GB @ 1080p suficiente]
 - Dynamic Geometry Quality = Medio
 - Antialiasing = x2 MSAA
-- FXAA Antialias = A gusto, Off si MSAA)
+- FXAA Antialias = A gusto
 - SSAO = Ultra
 - Refletion Quality = Ultra / High
 - Windshield Reflection Quality = Ultra
