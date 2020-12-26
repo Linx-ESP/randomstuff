@@ -19,9 +19,9 @@
 - Si un ajuste no aparece, da igual o no se sabe la mejor opción
 - Si aparecen varias opciones, normalmente indican misma relación calidad-rendimiento, por orden de recomendado
 
+### Forza Horizon 4
 <details>
-<summary><h1>Forza Horizon 4</h1></summary>
-Esto son ajustes para una buena relación de rendimiento-calidad, basado en [Hardware Unboxed](https://www.youtube.com/watch?v=Z8UODAGyOJs)
+<summary> Esto son ajustes para una buena relación de rendimiento-calidad, basado en <a href="https://www.youtube.com/watch?v=Z8UODAGyOJs">Hardware Unboxed</a> </summary>
 ![Rendimiento](images/fh4.png)
 <ul> Night Shadows = On </ul>
 <ul> Shadow Quality = Extreme / Ultra </ul>
