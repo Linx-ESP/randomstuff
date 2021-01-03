@@ -104,7 +104,14 @@ Antes de empezar
     - *IMPORTANTE*: Opciones x264: "threads=XX (número de hilos que quieras asignar) rc-lookahead=60 trellis=1 direct-pred=spatial"
 </details>
 
-
+Consejos Extra:
+-Bitrate
+  - Bitrate de Twitch es 6mbps asegurados, pero hasta 8mpbs libres, si la plataforma decide puede caer tu bitrate a 6 o el directo (no estoy seguro), pero solo si la plataforma está saturada
+    - 8mbps está asegurado para Partners de Twitch
+    - No hay consecuencias en tu cuenta si usas 8mbps, así que prueba con ello
+    - Como referencia, 8mbps es lo que da YT a 720p 60fps videos
+  - YT tiene un limite de bitrate de 15mbps, pero si le das más lo procesa YT, así que cuanto más mejor pero la ganancia es menor, aunque justificable
+  - Para superar los límites de bitrate necesitas habiltar la función en Ajutes > Emisión > Ignorar recomendaciones...
 
 
 
