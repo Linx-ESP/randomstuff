@@ -37,6 +37,7 @@
 
 ### Monitor
 Demasiadas cosas que contar
+- Importante tener en cuenta un soporte VESA o pensar en ello
 - Hasta 200€
   - AOC 24G2U(/BK) (que no acabe en 5) [1080p @ 144Hz IPS]
 - Mejor Relativo
@@ -57,6 +58,7 @@ Se resume en gAyMeR = caca, no tanto, pero sí
 - [Glorious Bungee](https://www.amazon.es/Glorious-PC-Gaming-Race-Bungee/dp/B07MVMPX9D) - 13€
 - [Glorious Trident](https://www.coolmod.com/glorious-pc-gaming-race-trident-accesorio-auriculares-precio) - 14€
 - IKEA [Pilas](https://www.ikea.com/es/es/p/ladda-pila-recargable-70303876/) y [Cargador](https://www.ikea.com/es/es/p/kvarts-cargador-pilas-80446667/) son las mejores
+- 5 min en la web de IKEA, no es broma, es lo mejor que puedes hacer
 
 ### Silla
 Esto es lo más importante, antes que rgb ni chorradas, e incluso monitor y no-chorradas, gastate aquí el dinero
@@ -70,15 +72,19 @@ Esto es lo más importante, antes que rgb ni chorradas, e incluso monitor y no-c
 
 ### Mesa
 Nunca sobra espacio, nunca. Contrachapado es suficiente. Colores oscuros mejor por limpieza y estética.
--Barata
-  - Kit: [IKEA Fredde](https://www.ikea.com/es/es/p/fredde-escritorio-negro-50219044/)
-[WIP]
-- Idónea
+-Barata (cuidado medidas) - 39€ / 123€*
+  - [Ikea LINNMON](https://www.ikea.com/es/es/p/linnmon-tablero-negro-marron-10251352/) - 27€*
+  - [Ikea OLOV](https://www.ikea.com/es/es/p/olov-pata-regulable-negro-30264301/) - 15€, 60-90cm*
+  - [Ikea ADILS](https://www.ikea.com/es/es/p/adils-pata-negro-70217973/) - 3€, Fijas a 70cm
+  - [Ikea Cajonera ALEX](https://www.ikea.com/es/es/p/alex-cajonera-blanco-10192824/) - 66€, 70cm*
+  - [Ikea Armarete ALEX](https://www.ikea.com/es/es/p/alex-almacenaje-blanco-60192826/) - 56€, 70cm
+- Idónea - 420+€
   - [Autonomous DIY Standing Dek Frame](https://www.autonomous.ai/standing-desks/diy-smart-desk-kit?option16=37&option17=1881) - 319€, Motorizada, 135kg, 5 años garantía 
     - CUIDADO: [IKEA Skarsta](https://www.ikea.com/es/es/p/skarsta-escritorio-sentado-de-pie-blanco-s59324818/) - 209€ ó 249€, ALTURA MANUAL, MÁX 50KG, PREFERIBLE EVITAR
-  - [IKEA Gerton](https://www.ikea.com/es/es/p/gerton-tablero-haya-50106773/) - 99€ + Barniz
+  - [Ikea GERTON](https://www.ikea.com/es/es/p/gerton-tablero-haya-50106773/) - 99€ + Barniz
     - Cualquier empresa de maderas puede hacer a medida, preferible 70cm de fondo y lo máx de ancho
-
+- Mención especial
+  - Kit: [Ikea FREDDE](https://www.ikea.com/es/es/p/fredde-escritorio-negro-50219044/) - 220€
 
 
 
