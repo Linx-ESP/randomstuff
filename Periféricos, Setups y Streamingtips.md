@@ -52,17 +52,29 @@ Demasiadas cosas que contar
 - Xbox One Controller - 55/65€
 
 ### Audio [WIP]
--Se resume en gAyMeR = caca, pero no siempre
-- Entrada y salida separadas
-  - Micrófono
-    - Dinámico (lo mejor rentable) - 62€
-      - [Behringer U-Phoria UM2](https://www.amazon.es/Behringer-UM2-Interface-audio-sampleado/dp/B00EK1OTZC) - 35€
-      - [Behringer XM8500](https://www.thomann.de/es/behringer_xm8500.htm) - 16€
-      - [Cable XLR 1,5m](https://www.thomann.de/es/the_sssnake_sk23315_xlr_patch.htm) - 4€
-      - Soporte Micrófono para mesa - 7€ (por decir algo)
-    - USB
-      - [Fifine K669B?](https://www.amazon.es/FIFINE-Micrófono-Condensador-Ordenadores-Transmisión/dp/B07QC5W7G9) - 33€ / 25+€
-
+Se resume en gAyMeR = caca, pero no siempre    
+Entrada y salida separadas    
+Ver [Nvidia Broadcast](https://www.nvidia.com/es-es/geforce/broadcasting/broadcast-app/) o ([Nvidia RTX Voice](https://www.tomshardware.com/news/nvidia-rtx-voice-works-fine-on-non-rtx-gpus#:~:text=RTX%20Voice%20should%20install%20without,and%2016-series%20graphics%20cards.) si tienes Nvidia GTX)
+- Micrófono
+  - Dinámico (lo mejor rentable) - 62€
+    - [Behringer U-Phoria UM2](https://www.amazon.es/Behringer-UM2-Interface-audio-sampleado/dp/B00EK1OTZC) - 35€
+    - [Behringer XM8500](https://www.thomann.de/es/behringer_xm8500.htm) - 16€
+    - [Cable XLR 1,5m](https://www.thomann.de/es/the_sssnake_sk23315_xlr_patch.htm) - 4€
+    - Soporte Micrófono para mesa - 7€ (por decir algo)
+    - Upgradear con pop filter y otros micros fácil
+  - USB
+    - [Fifine K669B?](https://www.amazon.es/FIFINE-Micrófono-Condensador-Ordenadores-Transmisión/dp/B07QC5W7G9) - 33€ / 25+€
+  - [ModMic](https://antlionaudio.com/collections/microphones/)
+    - [ModMic Uni](https://www.maxgaming.com/en/microphones/modmic-uni) - 43€
+    - [ModMic Wireless](https://www.maxgaming.com/en/microphones/modmic-wireless) - 99€
+- Auriculares
+  - [Philips SHE3590](https://www.amazon.es/Philips-SHE3590BL-10-Auriculares-Ear/dp/B007BOLAK2) - 12€
+- Cascos
+  - 
+- Headset (Salvo por comodidad de ser todo en uno, preferiblemente no)
+  - [Corsair HS50 Pro](https://www.amazon.es/Corsair-Auriculares-Ajustables-viscoelástica-Almohadillas/dp/B07Y2LRP67) - 65€
+  - [HyperX Cloud Alpha](https://www.amazon.es/HyperX-Cloud-Alpha-Pro-Profesionales/dp/B076GT6XJ9) - 77€
+  - No más que esto por dios
 
 ## Setups
 ### Accesorios
