@@ -29,25 +29,25 @@ Antes de empezar
       - Servidor: España
       - Ignorar las recomendaciones de configuración...
         - Permite asignar 8kbps en twitch, pero puede twitch no te asegura eso, si la plataforma está bajo estrés perderas los 8k. Partners tienen acceso siempre a 8kbps. No se pierde nada por probar
-    - Audio
-      - Frecuencia de muestreo: "48khz"
-      - Canales: "Estéreo"
-      - Dispositivos de audio globales: configurar entradas y salidas
-    - Vídeo
-      - Resolución de la base: Como OBS va a hacer su composición
-      - Resolución de salida: Predeterminada para grabación o emisión
-        - Recomendación: Ambas a lo que se vaya a grabar, 1080p o resolución del monitor. Ambas igual
-      - Filtro de escala: "Bicúbico" / "Lanczos" (si solo webcam, se puede cambiar en su entrada)
-      - Valores comunes de FPS: "60"
-    - Avanzados
-      - Prioridad del proceso: "Mayor a normal" (parece requerir admin y no debería hacer mucho)
-      - Renderizador: "Direct3D 11"
-      - Formato de color: "NV12" te quita de problemas, prueba "RGB" pero puede tener mayor uso de CPU al emitir
-      - Espacio de color: "sRGB" / "709" si tu monitor está configurado para REC.709
-      - Gama de Colores: Se puede configurar para cada entrada, cada capturador o webcam será distintos
-        - Para captura de PC: "Completo" (comprobar que en el panel de control de NVIDIA o equivalentede AMD > Cambiar la resolución aparezca como RGB - Completa)
-      - Habilitar optimizaciones de red
-      - Habilitar aceleración por hardware en el navegador
+  - Audio
+    - Frecuencia de muestreo: "48khz"
+    - Canales: "Estéreo"
+    - Dispositivos de audio globales: configurar entradas y salidas
+  - Vídeo
+    - Resolución de la base: Como OBS va a hacer su composición
+    - Resolución de salida: Predeterminada para grabación o emisión
+      - Recomendación: Ambas a lo que se vaya a grabar, 1080p o resolución del monitor. Ambas igual
+    - Filtro de escala: "Bicúbico" / "Lanczos" (si solo webcam, se puede cambiar en su entrada)
+    - Valores comunes de FPS: "60"
+  - Avanzados
+    - Prioridad del proceso: "Mayor a normal" (parece requerir admin y no debería hacer mucho)
+    - Renderizador: "Direct3D 11"
+    - Formato de color: "NV12" te quita de problemas, prueba "RGB" pero puede tener mayor uso de CPU al emitir
+    - Espacio de color: "sRGB" / "709" si tu monitor está configurado para REC.709
+    - Gama de Colores: Se puede configurar para cada entrada, cada capturador o webcam será distintos
+      - Para captura de PC: "Completo" (comprobar que en el panel de control de NVIDIA o equivalentede AMD > Cambiar la resolución aparezca como RGB - Completa)
+    - Habilitar optimizaciones de red
+    - Habilitar aceleración por hardware en el navegador
 </details>
 <details>
 <summary> Para Gráficas Nvidia (ejecutar OBS como admin) </summary>
