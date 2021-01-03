@@ -113,7 +113,7 @@ Consejos Extra:
     - No hay consecuencias en tu cuenta si usas 8mbps, así que prueba con ello
     - Como referencia, 8mbps es lo que da YT a 720p 60fps videos
   - YT tiene un limite de bitrate de 15mbps, pero si le das más lo procesa YT, así que cuanto más mejor pero la ganancia es menor, aunque justificable
-  - Para superar los límites de bitrate necesitas habiltar la función en Ajutes > Emisión > Ignorar recomendaciones...
+  - Para superar los límites de bitrate necesitas habiltar la función en Ajustes > Emisión > Ignorar recomendaciones...
 
 
 
