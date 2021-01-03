@@ -55,7 +55,7 @@ Demasiadas cosas que contar
 -Se resume en gAyMeR = caca, pero no siempre
 - Entrada y salida separadas
   - Micrófono
-    - Dinámico (lo mejor rentable) - 55€
+    - Dinámico (lo mejor rentable) - 62€
       - [Behringer U-Phoria UM2](https://www.amazon.es/Behringer-UM2-Interface-audio-sampleado/dp/B00EK1OTZC) - 35€
       - [Behringer XM8500](https://www.thomann.de/es/behringer_xm8500.htm) - 16€
       - [Cable XLR 1,5m](https://www.thomann.de/es/the_sssnake_sk23315_xlr_patch.htm) - 4€
