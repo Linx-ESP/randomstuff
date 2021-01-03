@@ -40,9 +40,9 @@
 - Cambios en Windows Update
   - Ajustes > Actualización y Seguridad > Opciones avanzadas
     - Reinicia este dispotivo lo antes posible: "Desactivado"
-  - > Optimización de distribución
+  - Actualización y seguridad > Optimización de distribución
     - Permitir descargas de otros equipos: "Desactivado"
-  - > Opciones Avanzadas
+  - Optimización de distribución > Opciones Avanzadas
     - Ancho de banda absoluto: Configúralo a gusto
 - Evitar que programas se inicien con el PC
   - Administrador de Tareas > Inicio (Nada de ahí es necesario)
