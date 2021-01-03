@@ -70,7 +70,7 @@ Ver [Nvidia Broadcast](https://www.nvidia.com/es-es/geforce/broadcasting/broadca
 - Auriculares
   - [Philips SHE3590](https://www.amazon.es/Philips-SHE3590BL-10-Auriculares-Ear/dp/B007BOLAK2) - 12€
 - Cascos
-  - 
+  - [WIP]
 - Headset (Salvo por comodidad de ser todo en uno, preferiblemente no)
   - [Corsair HS50 Pro](https://www.amazon.es/Corsair-Auriculares-Ajustables-viscoelástica-Almohadillas/dp/B07Y2LRP67) - 65€
   - [HyperX Cloud Alpha](https://www.amazon.es/HyperX-Cloud-Alpha-Pro-Profesionales/dp/B076GT6XJ9) - 77€
