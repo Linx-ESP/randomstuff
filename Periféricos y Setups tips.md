@@ -8,7 +8,10 @@
   - [WIP]
 
 ### Mousepad
-[WIP]
+- Tela
+  - [Steelseries Qck Edge Large](https://es.steelseries.com/gaming-mousepads/qck-edge-series?size=l) - 25€
+- Rígido (si no sabes si te viene bien, no lo uses)
+  - [Glorious Helios XL](https://www.coolmod.com/glorious-pc-gaming-race-helios-xl-alfombrilla-precio) - 22€
   
 ### Teclado (TKL ISO preferible)
 - Entrada
@@ -48,10 +51,18 @@ Demasiadas cosas que contar
 - Puedes usar los que tengas de Xbox y PS4/5 gracias a Steam y más herramientas
 - Xbox One Controller - 55/65€
 
-## Audio
-[WIP]
-Buah, esto va a ser maravilloso
-Se resume en gAyMeR = caca, no tanto, pero sí
+### Audio [WIP]
+-Se resume en gAyMeR = caca, pero no siempre
+- Entrada y salida separadas
+  - Micrófono
+    - Dinámico (lo mejor rentable) - 55€
+      - [Behringer U-Phoria UM2](https://www.amazon.es/Behringer-UM2-Interface-audio-sampleado/dp/B00EK1OTZC) - 35€
+      - [Behringer XM8500](https://www.thomann.de/es/behringer_xm8500.htm) - 16€
+      - [Cable XLR 1,5m](https://www.thomann.de/es/the_sssnake_sk23315_xlr_patch.htm) - 4€
+      - Soporte Micrófono para mesa - 7€ (por decir algo)
+    - USB
+      - [Fifine K669B?](https://www.amazon.es/FIFINE-Micrófono-Condensador-Ordenadores-Transmisión/dp/B07QC5W7G9) - 33€ / 25+€
+
 
 ## Setups
 ### Accesorios
@@ -72,8 +83,8 @@ Esto es lo más importante, antes que rgb ni chorradas, e incluso monitor y no-c
 
 ### Mesa
 Nunca sobra espacio, nunca. Contrachapado es suficiente. Colores oscuros mejor por limpieza y estética.
--Barata (cuidado medidas) - 39€ / 123€*
-  - [Ikea LINNMON](https://www.ikea.com/es/es/p/linnmon-tablero-negro-marron-10251352/) - 27€*
+- Barata (cuidado medidas) - 39€ / 123€*
+  - [Ikea LINNMON](https://www.ikea.com/es/es/p/linnmon-tablero-negro-marron-10251352/) - 27€*, 150x75cm
   - [Ikea OLOV](https://www.ikea.com/es/es/p/olov-pata-regulable-negro-30264301/) - 15€, 60-90cm*
   - [Ikea ADILS](https://www.ikea.com/es/es/p/adils-pata-negro-70217973/) - 3€, Fijas a 70cm
   - [Ikea Cajonera ALEX](https://www.ikea.com/es/es/p/alex-cajonera-blanco-10192824/) - 66€, 70cm*
