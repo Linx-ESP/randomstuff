@@ -22,7 +22,7 @@ Antes de empezar
 - Activar "Modo Juego" en Windows
 
 <details>
-<summary> Ajustes generales de OBS <summary>
+<summary> Ajustes generales de OBS </summary>
 
   - Emisión
     - Twitch / YT / otro
