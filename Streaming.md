@@ -17,8 +17,9 @@ RECOMENDADO [EPOSVOX](https://www.youtube.com/user/EposVox)
   
 ## Configuración OBS
 
-Antes de empezar: Ajustes > Salida > Modo de salida "Avanzado"    
-Activar "Modo Juego" en Windows   
+Antes de empezar
+- Ajustes > Salida > Modo de salida "Avanzado"    
+- Activar "Modo Juego" en Windows
 Para Gráficas Nvidia (ejecutar OBS como admin)
   - Emisión
     - Codificador: "NVEnc (new)"
