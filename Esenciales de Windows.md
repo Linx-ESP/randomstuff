@@ -3,7 +3,14 @@
   - Da igual como esté activado mientras lo esté
   - Configuración de activación > Agregar una cuenta
     - Como te pedirá la contraseña para iniciar sesión a Windows mi recomendación es poner un PIN
-    - Este PIN permite iniciar sesión con la cuenta de microsoft en el navegador, solo afecta a ese PC
+    - Este PIN permite iniciar sesión con la cuenta de microsoft en el navegador, solo afecta a ese PC 
+- Cambios en Windows Update
+  - Ajustes > Actualización y Seguridad > Opciones avanzadas
+    - Reinicia este dispotivo lo antes posible: "Desactivado"
+  - Actualización y seguridad > Optimización de distribución
+    - Permitir descargas de otros equipos: "Desactivado"
+  - Optimización de distribución > Opciones Avanzadas
+    - Ancho de banda absoluto: Configúralo a gusto
 - Administrador de tareas completo
   - Admin. de tareas > Más detalles
   - Rendimiento > CPU > Clic derecho en la gráfica > Cambiar a > Procesadores Lógicos
@@ -36,14 +43,7 @@
       - Alternativa: IBM 9.9.9.9 y 149.112.112.112
 - Mejor indexación de archivos
   - Ajustes > Buscar > En Windows > Mejorado
-    - CPUs y SSD pueden con esto 
-- Cambios en Windows Update
-  - Ajustes > Actualización y Seguridad > Opciones avanzadas
-    - Reinicia este dispotivo lo antes posible: "Desactivado"
-  - Actualización y seguridad > Optimización de distribución
-    - Permitir descargas de otros equipos: "Desactivado"
-  - Optimización de distribución > Opciones Avanzadas
-    - Ancho de banda absoluto: Configúralo a gusto
+    - CPUs y SSD pueden con esto
 - Evitar que programas se inicien con el PC
   - Administrador de Tareas > Inicio (Nada de ahí es necesario)
   - msconfig > Servicios > Ocultar todos los servicios de Microsoft > Ir probando cuales
