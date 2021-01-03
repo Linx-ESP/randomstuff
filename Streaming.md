@@ -107,7 +107,7 @@ Antes de empezar
 </details>
 
 Consejos Extra:
--Bitrate
+- Bitrate
   - Bitrate de Twitch es 6mbps asegurados, pero hasta 8mpbs libres, si la plataforma decide puede caer tu bitrate a 6 o el directo (no estoy seguro), pero solo si la plataforma está saturada
     - 8mbps está asegurado para Partners de Twitch
     - No hay consecuencias en tu cuenta si usas 8mbps, así que prueba con ello
