@@ -13,7 +13,9 @@ RECOMENDADO [EPOSVOX](https://www.youtube.com/user/EposVox)
 # Software
 ## Programas recomendado / necesarios
   - Nvidia Share si no necestias composición o controles
-  - OBS para lo demás o AMD
+    - Si no se habilita "Captura de escritorio" es básicamente sin pérdida de rendimiento
+    - Composición con overlays o webcam hace que deje de ser sin pérdida de rendimiento
+  - OBS para lo demás o no tienes gráfica Nvidia
   
 ## Configuración OBS
 
