@@ -20,7 +20,7 @@ RECOMENDADO [EPOSVOX](https://www.youtube.com/user/EposVox)
 Antes de empezar
 - Ajustes > Salida > Modo de salida "Avanzado"    
 - Activar "Modo Juego" en Windows
-Para Gráficas Nvidia (ejecutar OBS como admin)
+- Para Gráficas Nvidia (ejecutar OBS como admin)
   - Emisión
     - Codificador: "NVEnc (new)"
     - Cambiar escala de salida: 1280x720 *
