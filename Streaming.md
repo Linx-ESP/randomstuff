@@ -33,7 +33,7 @@ Antes de empezar
     - Psycho Visual Tuning: Sí
     - GPU: "0" / Seleccionar si multigpu
     - Máximos B-Frames: "2"
-    - * Twitch bitrate es basura, 6mbs no da para 720p 60 siquiera, para YT usar 1080p + 15mbps o más si posible
+    - *->Twitch bitrate es basura, 6mbs no da para 720p 60 siquiera, para YT usar 1080p + 15mbps o más si posible
   - Grabación
     - Formato: "flv" (se puede convertir a mp4 en OBS) / "mp4 (compatible directamente con todo)"
     - Codificador: "NVEnc (new)"
