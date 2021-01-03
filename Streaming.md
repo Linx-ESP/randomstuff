@@ -1,4 +1,4 @@
-Aquí configuraciones, trucos y software
+Aquí configuraciones, trucos y software   
 RECOMENDADO [EPOSVOX](https://www.youtube.com/user/EposVox)
 # Hardware
 ## Cámara
