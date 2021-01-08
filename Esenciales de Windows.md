@@ -59,6 +59,7 @@ Mejora la experiencia manteniendo la esencia básica de Windows, nada extravagan
 - [Rainmeter](https://www.rainmeter.net) Personalización con "widget-like", se pueden conseguir en otras [webs](https://www.deviantart.com/search?q=rainmeter)
 - [Taskbar X](https://chrisandriessen.nl/taskbarx) Centrar y transparencia de la barra de tareas
 - [Wallpaper Engine](https://store.steampowered.com/app/431960/Wallpaper_Engine/) Fondos animados e interactivos
+- [7zip (.exe 64-bit)](https://www.7-zip.org/download.html)
 
 # Otros
 - [Breeze Mouse Cursors](https://www.deviantart.com/niivu/art/Breeze-Cursors-784566911) Punteros alternativos
