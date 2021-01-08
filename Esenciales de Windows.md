@@ -37,10 +37,10 @@
 - Configurar conexión como red privada (solo en hogar)
   - Estado de red > (tu conexión) > Propiedades > Perfil de red: Privado
 - Cambiar DNS's (no afecta al ping en juegos, solo a resolver urls a IPs númericas, [test por Battle (non)sense](https://www.youtube.com/watch?v=cWBrZKvYUuw))
-  - Estado de Red > Cambiar opciones del adaptador > El que estés usando > Clic der. > Propiedades > Protocolo de Internet versión 4 doble clic
-    - Usar las siguientes direcciones de DNS:
-      - Rápido: Cloudflare 1.1.1.1 y 1.0.0.1
-      - Alternativa: IBM 9.9.9.9 y 149.112.112.112
+  - Estado de Red > (red actual) Propiedades > Configuración de IP (Editar) > Manual
+  - IPv4 Activado
+  - DNS preferido: 1.1.1.1
+  - DNS alternativo: 1.0.0.1
 - Mejor indexación de archivos
   - Ajustes > Buscar > En Windows > Mejorado
     - CPUs y SSD pueden con esto
