@@ -16,6 +16,8 @@ RECOMENDADO [EPOSVOX](https://www.youtube.com/user/EposVox)
     - Si no se habilita "Captura de escritorio" es básicamente sin pérdida de rendimiento
     - Composición con overlays o webcam hace que deje de ser sin pérdida de rendimiento
   - OBS para lo demás o no tienes gráfica Nvidia
+    - No usar Streamlabs o Streamelements OBS, añadir sus funciones al OBS vase para menos problemas
+    - Recomendado Streamelements pero supongo da bastante igual
   
 ## Configuración OBS
 
