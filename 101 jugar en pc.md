@@ -87,7 +87,8 @@
  # Programas a familiarizarse
 - [OBS](https://obsproject.com/es/download)
   - Grabación y emisión
-  - Ajustes recomendados próximamente (NVenc si Nvidia)
+  - Ajustes recomendados [aquí](https://github.com/Linx-ESP/Cosas-de-PC/blob/main/Streaming%20y%20obs.md#configuración-obs)
+  - Evitar Streamlabs OBS, usar sus plugins para el original
 - [Discord](https://discord.com)
   - Comunicación
 - [TeamSpeak (TS)](https://www.teamspeak.com/en/)
