@@ -59,6 +59,7 @@
 - [SteamDB](https://steamdb.info/sales/?min_discount=0&min_rating=0&cc=eu)
   - Funcionalidades para la tienda de Steam
   - Mejor vista de las ofertas
+  - Historial de precios
   - Calcular precio del perfil
 - Estado de servicios
   - [Steam](https://steamstat.us)
