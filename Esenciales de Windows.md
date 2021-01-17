@@ -52,7 +52,7 @@
     - Anticheats también, se iniciarán con el juego (el de Valorant es muy intrusivo, lo que pase con ese es culpa de Riot)
 # Apps
 Mejora la experiencia manteniendo la esencia básica de Windows, nada extravagante
-- [EarTrumpet](www.microsoft.com/es-es/p/eartrumpet/9nblggh516xp) Mejor control de audio de Windows
+- [EarTrumpet](https://www.microsoft.com/es-es/p/eartrumpet/9nblggh516xp?activetab=pivot:overviewtab) Mejor control de audio de Windows
 - [Files UWP](https://www.microsoft.com/es-es/p/files-preview/9nghp3dx8hdx?activetab=pivot:overviewtab) Explorador de archivos con Fluent Design
 - [Notepads](https://www.microsoft.com/es-es/p/notepads-app/9nhl4nsc67wm?activetab=pivot:overviewtab) Mejor que el básico
 - [Opera](https://www.opera.com/es-419) y [Opera GX](https://www.opera.com/es/gx) Mejores navegadores que Chrome, aunque Edge es usable
