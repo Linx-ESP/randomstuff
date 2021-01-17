@@ -1,5 +1,5 @@
 Aquí configuraciones, trucos y software   
-RECOMENDADO [EPOSVOX](https://www.youtube.com/user/EposVox)
+RECOMENDADO VER [EPOSVOX](https://www.youtube.com/user/EposVox) [EN]
 # Hardware
 ## Cámara
 - Usar el móvil como webcam
