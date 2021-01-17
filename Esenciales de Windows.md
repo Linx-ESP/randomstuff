@@ -17,7 +17,7 @@
   - Opciones > Siempre Visible: "Sí"
 - Mejores capturas de pantalla
   - Ajustes > Accesibilidad > Teclado > Utilizar el botón Impr Pant para abrir recorte de pantalla: "Activado"
- - Mejor portapapeles (Win + V) 
+- Mejor portapapeles (Win + V) 
   - Ajustes >  Sistema > Portapapeles > Historial del portapapeles
 - Mejor precisión de ratón
   - Ajustes > Dispositivos > Mouse > Opciones de mouse adicionales (derecha) > Opciones del puntero
