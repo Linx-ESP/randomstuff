@@ -5,7 +5,7 @@ Router Gamer caca mal basura
   - No requiere demasiado de nada (por no decir ni gráfica una vez todo instalado)
   - Necesita dos puertos gigabit / ethernet
     - [TP-Link TG-3468](https://www.amazon.es/dp/B003CFATNI
-- Nano R4S o Raspberry-base con dos gigabit ehternet
+- Nano R4S o Raspberry-base con dos gigabit ehternet (si no se usa un PC)
 - Switch neutro / non-managed
   - [TP-Link TL-SG108 V3](https://www.amazon.es/dp/B01EXDG2MO/)
 - Punto de Acceso Wifi
