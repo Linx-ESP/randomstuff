@@ -3,7 +3,6 @@
 - Asegúrate que tu monitor esté a la máxima frecuencia de refresco (144Hz o lo que corresponda)
   - Si tu monitor es compatible con Freesync, habilitalo (el panel de NVIDA mostrará G-Sync o similar)
 - [Filtrado Anisotrópico](https://www.pcgamingwiki.com/wiki/Glossary:Anisotropic_filtering_(AF)) = x16 / Máx
-  - Se puede forzar NVIDIA Control Panel y AMD equivalente para todos los juegos
 - Motion Blur... *no*
   
 ## Controles
