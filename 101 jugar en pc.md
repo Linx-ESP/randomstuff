@@ -66,10 +66,6 @@
   - [Epic Games](https://status.epicgames.com)
   - [Xbox](https://support.xbox.com/es-ES/xbox-live-status)
   - [Discord](https://discordstatus.com)
-- [Techspot](https://www.techspot.com) [EN-au]
-  - Noticias en general de tecnología
-  - Sensacionalismo, no gracias
-  - Hardware Unboxed crea contenido (Ver "Creadores de Contenido")
 
 # Webs para mods
 - Cada juegos tiene su comunidad ubicada en una web por lo normal
