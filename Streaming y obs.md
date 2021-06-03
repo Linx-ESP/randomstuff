@@ -98,7 +98,7 @@ Antes de empezar
     - *IMPORTANTE*: Opciones x264: "threads=XX (número de hilos que quieras asignar) rc-lookahead=60 trellis=1 direct-pred=spatial"
     - *->Twitch bitrate es basura, 6mbs no da para 720p 60 siquiera, para YT usar 1080p + 15mbps o más si posible
   - Grabación
-    - Formato: "flv" (se puede convertir a mp4 en OBS) / "mp4 (compatible directamente con todo)"
+    - Formato: "flv/mkv" (se puede convertir a mp4 en OBS) / "mp4 (compatible directamente con todo)"
     - Codificador: "x264"
     - Control de frecuencia: "CRF" (Constant Rate Factor o Controlado por calidad)
     - CRF: "15" (menos es más fiel pero más bitrate, jugar con ello)
