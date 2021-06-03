@@ -14,7 +14,7 @@
 - Administrador de tareas completo
   - Admin. de tareas > Más detalles
   - Rendimiento > CPU > Clic derecho en la gráfica > Cambiar a > Procesadores Lógicos
-  - Opciones > Siempre Visible: "Sí"
+  - Opciones (Barra de arriba) > Siempre Visible: "Sí"
 - Mejores capturas de pantalla
   - Ajustes > Accesibilidad > Teclado > Utilizar el botón Impr Pant para abrir recorte de pantalla: "Activado"
 - Mejor portapapeles (Win + V) 
@@ -50,12 +50,23 @@
     - Nada rompe Windows aparte de los de Microsoft, así que prueba sin miedo
     - Los autoupdaters se pueden quitar por lo general
     - Anticheats también, se iniciarán con el juego (el de Valorant es muy intrusivo, lo que pase con ese es culpa de Riot)
+# Navegador
+- Huir de Chrome
+  - Edge tiene opción para inicio instantáneo
+  - Firefox 89 tiene nueva interfaz
+  - Opera y Opera GX se basan en chromium y suelen tener mayor variedad de funciones base. GX tiene limitadores de CPU y demás
+- Extensiones
+  - uBlock Origin - Mejor bloqueador de anuncios y ligero
+  - Universal Bypass - Salta links intermedios automáticamente
+  - SponsorBlock - Bloquea sponsors, promociones, dale a like y demás en yt
+  - ViolentMonkey - Permite carar script para funciones en web
+  - Stylus permites encontrar y usar temas para webs
+  - Bitwarden o cualquier otro gestor de contraseñas
 # Apps
 Mejora la experiencia manteniendo la esencia básica de Windows, nada extravagante
 - [EarTrumpet](https://www.microsoft.com/es-es/p/eartrumpet/9nblggh516xp?activetab=pivot:overviewtab) Mejor control de audio de Windows
 - [Files UWP](https://www.microsoft.com/es-es/p/files-preview/9nghp3dx8hdx?activetab=pivot:overviewtab) Explorador de archivos con Fluent Design
 - [Notepads](https://www.microsoft.com/es-es/p/notepads-app/9nhl4nsc67wm?activetab=pivot:overviewtab) Mejor que el básico
-- [Opera](https://www.opera.com/es-419) y [Opera GX](https://www.opera.com/es/gx) Mejores navegadores que Chrome, aunque Edge es usable
 - [Rainmeter](https://www.rainmeter.net) Personalización con "widget-like", se pueden conseguir en otras [webs](https://www.deviantart.com/search?q=rainmeter)
 - [Taskbar X](https://chrisandriessen.nl/taskbarx) Centrar y transparencia de la barra de tareas
 - [Wallpaper Engine](https://store.steampowered.com/app/431960/Wallpaper_Engine/) Fondos animados e interactivos
