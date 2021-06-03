@@ -71,6 +71,7 @@ Mejora la experiencia manteniendo la esencia básica de Windows, nada extravagan
 - [Taskbar X](https://chrisandriessen.nl/taskbarx) Centrar y transparencia de la barra de tareas
 - [Wallpaper Engine](https://store.steampowered.com/app/431960/Wallpaper_Engine/) Fondos animados e interactivos
 - [7zip (.exe 64-bit)](https://www.7-zip.org/download.html)
+- [PowerToys](https://github.com/microsoft/PowerToys)
 
 # Otros
 - [Breeze Mouse Cursors](https://www.deviantart.com/niivu/art/Breeze-Cursors-784566911) Punteros alternativos
