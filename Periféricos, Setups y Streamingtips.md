@@ -3,9 +3,16 @@
 
 ### Ratones
 - Entrada
-  - Logitech G203 - 25-35€
-- Sin Compromisos
-  - [WIP]
+  - Logitech G203 - 20-30€
+  - Logitech G305 - 40€
+- Mods
+  - Cambiar Switches
+    - Kaihl Silent Microswitches
+    - Omrom Japan, Kaihl 2.0/4.0/8.0/Black
+  - Skates
+    - Tiger Arc - Más baratos (Casi un must have)
+    - Corepadz
+    - Hotline NO
 
 ### Mousepad
 - Tela
@@ -34,7 +41,7 @@
   - Si no: Logitech G29/G920 (Sub-200€)(son iguales al G923 y equivalente)
   - Si sabes que vas a seguir para largo Thustmaster T300
 - Sin Comprimisos
-  - [WIP]
+  - [WIP - Fanates CSL DD parece]
 - Endgame
   - Fanatec DD1/DD2
 
@@ -45,16 +52,20 @@ Demasiadas cosas que contar
   - AOC 24G2U(/BK) (que no acabe en 5) [1080p @ 144Hz IPS]
 - Mejor Relativo
   - LG 27GL850-B - 400-470€ [1440p @ 144Hz IPS]
+- 21:9 1440p 144Hz - VA
+  - Xiaomi Mi Curve 34'
 
 ### Mandos
 - Baratos siempre son cutres, bien si lo quieres de 3er mando
 - Puedes usar los que tengas de Xbox y PS4/5 gracias a Steam y más herramientas
 - Xbox One Controller - 55/65€
+- 8bitDO
 
 ### Audio [WIP]
 Se resume en gAyMeR = caca, pero no siempre    
 Entrada y salida separadas    
 Ver [Nvidia Broadcast](https://www.nvidia.com/es-es/geforce/broadcasting/broadcast-app/) o ([Nvidia RTX Voice](https://www.tomshardware.com/news/nvidia-rtx-voice-works-fine-on-non-rtx-gpus#:~:text=RTX%20Voice%20should%20install%20without,and%2016-series%20graphics%20cards.) si tienes Nvidia GTX)
+Ver [Equalizer APO](https://sourceforge.net/projects/equalizerapo/), [Reaper VST Plugins](https://www.reaper.fm/reaplugs/) y [esta guía](https://obsproject.com/forum/resources/better-voice-recordings.514/)
 - Micrófono
   - Dinámico (lo mejor rentable) - 62€
     - [Behringer U-Phoria UM2](https://www.amazon.es/Behringer-UM2-Interface-audio-sampleado/dp/B00EK1OTZC) - 35€
@@ -71,10 +82,11 @@ Ver [Nvidia Broadcast](https://www.nvidia.com/es-es/geforce/broadcasting/broadca
   - [Philips SHE3590](https://www.amazon.es/Philips-SHE3590BL-10-Auriculares-Ear/dp/B007BOLAK2) - 12€
 - Cascos
   - [WIP]
+  - DT770/880/990 + Amp si >80 Ohm
 - Headset (Salvo por comodidad de ser todo en uno, preferiblemente no)
   - [Corsair HS50 Pro](https://www.amazon.es/Corsair-Auriculares-Ajustables-viscoelástica-Almohadillas/dp/B07Y2LRP67) - 65€
   - [HyperX Cloud Alpha](https://www.amazon.es/HyperX-Cloud-Alpha-Pro-Profesionales/dp/B076GT6XJ9) - 77€
-  - No más que esto por dios
+  - No gastarse más que esto por dios
 
 ## Setups
 ### Accesorios
@@ -89,9 +101,8 @@ Esto es lo más importante, antes que rgb ni chorradas, e incluso monitor y no-c
 - Reviews sin largo plazo no sirven, ver [Gamers Nexus](https://www.youtube.com/watch?v=9Yhc6mmdJC4)
 - Lo mejor es una Herman Miller usada de oficina barata, pero nuevas:
 - Sub 250€
-  - [Autonomous Myo Chair](https://www.autonomous.ai/office-chairs/ergonomic-computer-chair?option1572=1942&option1573=1945) - 199€ ó 259€
+  - [Autonomous Ergochair Core](https://www.autonomous.ai/office-chairs/ergonomic-computer-chair?option1572=1942&option1573=1945) - 199€ ó 259€
   - [Ikea JÄRVFJÄLLET](https://www.ikea.com/es/es/p/jarvfjallet-silla-trabajo-con-reposabrazos-gunnared-gris-oscuro-negro-s99275632/) - 199€
-  - [Ikea MARKUS](https://www.ikea.com/es/es/p/markus-silla-trabajo-glose-negro-40103100/) - 169€
 
 ### Mesa
 Nunca sobra espacio, nunca. Contrachapado es suficiente. Colores oscuros mejor por limpieza y estética.
