@@ -60,7 +60,7 @@
   - Universal Bypass - Salta links intermedios automáticamente
   - SponsorBlock - Bloquea sponsors, promociones, dale a like y demás en yt
   - ViolentMonkey - Permite carar script para funciones en web
-  - Stylus permites encontrar y usar temas para webs
+  - Stylus - permite encontrar y usar temas para webs
   - Bitwarden o cualquier otro gestor de contraseñas
 # Apps
 Mejora la experiencia manteniendo la esencia básica de Windows, nada extravagante
